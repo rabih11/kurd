@@ -1,5 +1,7 @@
 body{
-    background: #e3ebfa;
+   background-color: #e3ebfa;
+   width: 100%;
+   height: 100%;
 }
 *{
     margin: 0;
